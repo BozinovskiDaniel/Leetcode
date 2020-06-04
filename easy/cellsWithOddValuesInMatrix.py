@@ -39,4 +39,5 @@ class Solution(object):
     - Loop over indices and increment respective cols and rows
     - Count num of odd in matrix
     - Return count
+    - Easy
 """
